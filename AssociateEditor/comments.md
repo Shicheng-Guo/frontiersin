@@ -1,4 +1,4 @@
-1)CircRNA circ_POLA2 promotes cervical squamous cell carcinoma progression via regulating miR-326/GNB1
+**1) CircRNA circ_POLA2 promotes cervical squamous cell carcinoma progression via regulating miR-326/GNB1**
 
 ORIGINAL RESEARCH ARTICLE
 
@@ -13,7 +13,7 @@ The author claimed circ_PLOA2 is sponger of miRNA-326, how they find this miRNA?
 In addition, why circ_PLOA2 is over-expressed in cancer? The regulatory mechanism is much interesting since current we don’t have good theory to explain the abnormal expression of circRNA. 
 When the authors use shRNA to Knockdown circRNA, whether the host gene were influenced? How to make sure the cellular effect they observed is caused by circRNA expression change? Is there any off-target effect? 
 
-2)Inference of Subpathway Activity Profiles Reveals Metabolism Abnormal Subpathway Regions in Glioblastoma Multiforme
+**2) Inference of Subpathway Activity Profiles Reveals Metabolism Abnormal Subpathway Regions in Glioblastoma Multiforme**
 
 ORIGINAL RESEARCH ARTICLE
 
